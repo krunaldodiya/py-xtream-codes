@@ -84,7 +84,7 @@ class Channel:
         print(f"M3U8 playlist saved as data/{file_name}")
 
     def generate_hd_m3u8(self, indian_channels, file_name) -> None:
-        hd_indian_links = [item for item in indian_channels if " HD" in item['name'].upper()]
+        hd_indian_links = [item for item in indian_channels if any(term in item['name'].upper() for term in ["HD", "4K"])]
 
         # Write the filtered HD channels to indian_hd_channels.json
         with open("data/indian_hd_channels.json", "w") as file:
