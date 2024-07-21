@@ -4,7 +4,7 @@ import requests
 
 class Channel:
     def __init__(self) -> None:
-        self.server   = config.provider['server']
+        self.server = config.provider['server']
         self.username = config.provider['username']
         self.password = config.provider['password']
 
@@ -13,25 +13,28 @@ class Channel:
             "215", "232", "335", "338", "339", "350", "385", "389", "392",
             "407", "420", "422", "435",
         ]
-    
+
     def get_all_channels(self) -> list:
         url = f"{self.server}/player_api.php?username={self.username}&password={self.password}&action=get_live_streams"
-        response = requests.get(url)
-        
-        if response.status_code == 200:
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
             data = response.json()
             with open("all_channels.json", "w") as file:
                 json.dump(data, file, indent=4)
+            print("Fetched and saved all channels successfully.")
             return data
-        else:
-            print("Failed to fetch channels from the server.")
+        except requests.RequestException as e:
+            print(f"Failed to fetch channels from the server: {e}")
             return []
 
     def get_indian_channels(self) -> list:
         try:
             with open("all_channels.json") as file:
                 data = json.load(file)
+            print("Loaded channels from all_channels.json.")
         except FileNotFoundError:
+            print("all_channels.json not found. Fetching channels from server.")
             data = self.get_all_channels()
         except json.JSONDecodeError:
             raise Exception("Error decoding JSON from all_channels.json.")
@@ -44,15 +47,13 @@ class Channel:
         # Write the filtered channels to indian_channels.json
         with open("indian_channels.json", "w") as file:
             json.dump(indian_links, file, indent=4)
+        print("Filtered and saved Indian channels successfully.")
 
         return indian_links
 
     def generate_m3u8(self) -> None:
         epg_url = "http://rstream.me/epg.xml.gz"
         channels = self.get_indian_channels()
-
-        print(channels)
-        exit()
 
         if not channels:
             print("No Indian channels found or error reading data.")
@@ -78,7 +79,6 @@ class Channel:
         # Write the M3U8 playlist to a file
         with open("indian_channels.m3u8", "w") as file:
             file.write(playlist)
-
         print("M3U8 playlist saved as indian_channels.m3u8")
 
 # Instantiate the Channel class and generate the M3U8 playlist
