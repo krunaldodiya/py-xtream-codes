@@ -89,7 +89,7 @@ class Channel:
         # Write the filtered HD channels to indian_hd_channels.json
         with open("data/indian_hd_channels.json", "w") as file:
             json.dump(hd_indian_links, file, indent=4)
-        print("Filtered and saved HD channels to data/indian_hd_channels.json.")
+        print(f"Filtered and saved ({len(hd_indian_links)}) HD channels to data/indian_hd_channels.json.")
 
         # Generate the M3U8 playlist for HD channels
         self.generate_m3u8(hd_indian_links, file_name)
