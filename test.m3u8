@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#EXTINF:-1 tvg-id="001" tvg-name="NDTV India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.pinimg.com/originals/94/7e/40/947e405ff7b832e61e4c1de5913f51a3.png" tvg-chno="001" group-title="NDTV India",NDTV India
+http://mega4k.one:8080/live/vicky123/123456/62142.ts
