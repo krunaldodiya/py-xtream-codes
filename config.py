@@ -5,9 +5,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 provider = dict(
-    server=os.getenv("SERVER"),
-    username=os.getenv("USERNAME"),
-    password=os.getenv("PASSWORD"),
+    server=os.getenv("XTREAM_SERVER"),
+    username=os.getenv("XTREAM_USERNAME"),
+    password=os.getenv("XTREAM_PASSWORD"),
 )
 
 # write json responses to files

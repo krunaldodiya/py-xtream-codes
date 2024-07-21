@@ -1,23 +1,40 @@
 import json
+import config
+import requests
 
 class Channel:
     def __init__(self) -> None:
+        self.server   = config.provider['server']
+        self.username = config.provider['username']
+        self.password = config.provider['password']
+
         self.categories = [
             "35", "186", "187", "188", "189", "190", "191", "192", "193",
             "215", "232", "335", "338", "339", "350", "385", "389", "392",
             "407", "420", "422", "435",
         ]
+    
+    def get_all_channels(self) -> list:
+        url = f"{self.server}/player_api.php?username={self.username}&password={self.password}&action=get_live_streams"
+        response = requests.get(url)
+        
+        if response.status_code == 200:
+            data = response.json()
+            with open("all_channels.json", "w") as file:
+                json.dump(data, file, indent=4)
+            return data
+        else:
+            print("Failed to fetch channels from the server.")
+            return []
 
     def get_indian_channels(self) -> list:
         try:
             with open("all_channels.json") as file:
                 data = json.load(file)
         except FileNotFoundError:
-            print("The file all_channels.json does not exist.")
-            return []
+            data = self.get_all_channels()
         except json.JSONDecodeError:
-            print("Error decoding JSON from all_channels.json.")
-            return []
+            raise Exception("Error decoding JSON from all_channels.json.")
 
         indian_links = [item for item in data if item['category_id'] in self.categories]
 
@@ -33,6 +50,9 @@ class Channel:
     def generate_m3u8(self) -> None:
         epg_url = "http://rstream.me/epg.xml.gz"
         channels = self.get_indian_channels()
+
+        print(channels)
+        exit()
 
         if not channels:
             print("No Indian channels found or error reading data.")
