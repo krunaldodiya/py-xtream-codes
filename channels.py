@@ -55,7 +55,7 @@ class Channel:
         return indian_links
 
     def generate_m3u(self, channels, file_name) -> None:
-        epg_url = "http://rstream.me/epg.xml.gz"
+        epg_url = "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
         if not channels:
             print("No channels found or error reading data.")
