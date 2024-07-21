@@ -1,4 +1,5 @@
 import json
+import os
 import config
 import requests
 
@@ -13,6 +14,8 @@ class Channel:
             "215", "232", "335", "338", "339", "350", "385", "389", "392",
             "407", "420", "422", "435",
         ]
+        # Ensure the data directory exists
+        os.makedirs('data', exist_ok=True)
 
     def get_all_channels(self) -> list:
         url = f"{self.server}/player_api.php?username={self.username}&password={self.password}&action=get_live_streams"
@@ -20,7 +23,7 @@ class Channel:
             response = requests.get(url)
             response.raise_for_status()
             data = response.json()
-            with open("all_channels.json", "w") as file:
+            with open("data/all_channels.json", "w") as file:
                 json.dump(data, file, indent=4)
             print("Fetched and saved all channels successfully.")
             return data
@@ -30,14 +33,14 @@ class Channel:
 
     def get_indian_channels(self) -> list:
         try:
-            with open("all_channels.json") as file:
+            with open("data/all_channels.json") as file:
                 data = json.load(file)
-            print("Loaded channels from all_channels.json.")
+            print("Loaded channels from data/all_channels.json.")
         except FileNotFoundError:
             print("all_channels.json not found. Fetching channels from server.")
             data = self.get_all_channels()
         except json.JSONDecodeError:
-            raise Exception("Error decoding JSON from all_channels.json.")
+            raise Exception("Error decoding JSON from data/all_channels.json.")
 
         indian_links = [item for item in data if item['category_id'] in self.categories]
 
@@ -45,18 +48,17 @@ class Channel:
         indian_links = [dict(t) for t in {tuple(d.items()) for d in indian_links}]
 
         # Write the filtered channels to indian_channels.json
-        with open("indian_channels.json", "w") as file:
+        with open("data/indian_channels.json", "w") as file:
             json.dump(indian_links, file, indent=4)
         print("Filtered and saved Indian channels successfully.")
 
         return indian_links
 
-    def generate_m3u8(self) -> None:
+    def generate_m3u8(self, channels, file_name) -> None:
         epg_url = "http://rstream.me/epg.xml.gz"
-        channels = self.get_indian_channels()
 
         if not channels:
-            print("No Indian channels found or error reading data.")
+            print("No channels found or error reading data.")
             return
 
         playlist = f"#EXTM3U x-tvg-url=\"{epg_url}\"\n"
@@ -67,7 +69,7 @@ class Channel:
             channel_logo = channel.get('stream_icon', '')
             channel_country = "India"
             channel_language = "Hindi"
-            url = f"http://mega4k.one:8080/live/vicky123/123456/{stream_id}.ts"
+            url = f"http://mega4k.one:8080/live/{self.username}/{self.password}/{stream_id}.ts"
 
             playlist += (
                 f"#EXTINF:-1 tvg-id=\"{stream_id}\" tvg-name=\"{channel_name}\" "
@@ -77,10 +79,23 @@ class Channel:
             )
 
         # Write the M3U8 playlist to a file
-        with open("indian_channels.m3u8", "w") as file:
+        with open(f"data/{file_name}", "w") as file:
             file.write(playlist)
-        print("M3U8 playlist saved as indian_channels.m3u8")
+        print(f"M3U8 playlist saved as data/{file_name}")
 
-# Instantiate the Channel class and generate the M3U8 playlist
+    def generate_hd_m3u8(self, indian_channels, file_name) -> None:
+        hd_indian_links = [item for item in indian_channels if " HD" in item['name'].upper()]
+
+        # Write the filtered HD channels to indian_hd_channels.json
+        with open("data/indian_hd_channels.json", "w") as file:
+            json.dump(hd_indian_links, file, indent=4)
+        print("Filtered and saved HD channels to data/indian_hd_channels.json.")
+
+        # Generate the M3U8 playlist for HD channels
+        self.generate_m3u8(hd_indian_links, file_name)
+
+# Instantiate the Channel class and generate the M3U8 playlists
 channel = Channel()
-channel.generate_m3u8()
+indian_channels = channel.get_indian_channels()
+channel.generate_m3u8(indian_channels, "indian_channels.m3u8")
+channel.generate_hd_m3u8(indian_channels, "indian_hd_channels.m3u8")
