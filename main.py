@@ -1,12 +1,7 @@
-import xtream
-import config
+from channels import Channel
 
-x = xtream
 
-x.server   = config.provider['server']
-x.username = config.provider['username']
-x.password = config.provider['password']
-
-live_stream_url = x.get_live_streams_URL()
-
-print(live_stream_url)
+channel = Channel()
+indian_channels = channel.get_indian_channels()
+channel.generate_m3u(indian_channels, "indian_channels.m3u")
+channel.generate_hd_m3u(indian_channels, "indian_hd_channels.m3u")

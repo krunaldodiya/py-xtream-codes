@@ -54,7 +54,7 @@ class Channel:
 
         return indian_links
 
-    def generate_m3u8(self, channels, file_name) -> None:
+    def generate_m3u(self, channels, file_name) -> None:
         epg_url = "http://rstream.me/epg.xml.gz"
 
         if not channels:
@@ -78,12 +78,12 @@ class Channel:
                 f"group-title=\"{channel_name}\",{channel_name}\n{url}\n"
             )
 
-        # Write the M3U8 playlist to a file
+        # Write the m3u playlist to a file
         with open(f"data/{file_name}", "w") as file:
             file.write(playlist)
-        print(f"M3U8 playlist saved as data/{file_name}")
+        print(f"m3u playlist saved as data/{file_name}")
 
-    def generate_hd_m3u8(self, indian_channels, file_name) -> None:
+    def generate_hd_m3u(self, indian_channels, file_name) -> None:
         hd_indian_links = [item for item in indian_channels if any(term in item['name'].upper() for term in ["HD", "4K"])]
 
         # Write the filtered HD channels to indian_hd_channels.json
@@ -91,11 +91,5 @@ class Channel:
             json.dump(hd_indian_links, file, indent=4)
         print(f"Filtered and saved ({len(hd_indian_links)}) HD channels to data/indian_hd_channels.json.")
 
-        # Generate the M3U8 playlist for HD channels
-        self.generate_m3u8(hd_indian_links, file_name)
-
-# Instantiate the Channel class and generate the M3U8 playlists
-channel = Channel()
-indian_channels = channel.get_indian_channels()
-channel.generate_m3u8(indian_channels, "indian_channels.m3u8")
-channel.generate_hd_m3u8(indian_channels, "indian_hd_channels.m3u8")
+        # Generate the m3u playlist for HD channels
+        self.generate_m3u(hd_indian_links, file_name)

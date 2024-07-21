@@ -40,7 +40,7 @@ returns:
       "created_at":"1542987052",
       "max_connections":"2",
       "allowed_output_formats":[  
-         "m3u8",
+         "m3u",
          "ts",
          "rtmp"
       ]
