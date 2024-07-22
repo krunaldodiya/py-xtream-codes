@@ -1,9 +1,9 @@
-import requests 
-import datetime
+import requests
+import config 
 
-server = "http://foo.bar:666"
-username = "ernie"
-password = "bert"
+server = config.provider['server']
+username = config.provider['username']
+password = config.provider['password']
 
 liveType = "Live"
 vodType = "VOD"

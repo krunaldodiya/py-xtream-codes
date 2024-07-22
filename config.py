@@ -1,8 +1,8 @@
-import os
-
 from dotenv import load_dotenv
 
 load_dotenv()
+
+import os
 
 provider = dict(
     server=os.getenv("XTREAM_SERVER"),

@@ -1,7 +1,7 @@
 import json
 import os
-import config
 import requests
+import config
 
 class Channel:
     def __init__(self) -> None:
@@ -135,9 +135,3 @@ class Channel:
 
         # Generate the m3u playlist for HD channels
         self.generate_m3u(hd_indian_links, file_name)
-
-# Instantiate the Channel class and generate the m3u playlists
-channel = Channel()
-indian_channels = channel.get_indian_channels()
-channel.generate_m3u(indian_channels, "indian_channels.m3u")
-channel.generate_hd_m3u(indian_channels, "indian_hd_channels.m3u")
