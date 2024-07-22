@@ -1,0 +1,107 @@
+[
+  {
+    "category_id": "392",
+    "category_name": "IND | Entertainment",
+    "parent_id": 0
+  },
+  {
+    "category_id": "422",
+    "category_name": "IND | 4K Ultra HD",
+    "parent_id": 0
+  },
+  {
+    "category_id": "232",
+    "category_name": "IND | Movies",
+    "parent_id": 0
+  },
+  {
+    "category_id": "339",
+    "category_name": "IND | News",
+    "parent_id": 0
+  },
+  {
+    "category_id": "193",
+    "category_name": "IND | Documentary",
+    "parent_id": 0
+  },
+  {
+    "category_id": "35",
+    "category_name": "IND | Kids",
+    "parent_id": 0
+  },
+  {
+    "category_id": "215",
+    "category_name": "IND | Music",
+    "parent_id": 0
+  },
+  {
+    "category_id": "338",
+    "category_name": "IND | English Movies",
+    "parent_id": 0
+  },
+  {
+    "category_id": "435",
+    "category_name": "IND | Discovery Plus",
+    "parent_id": 0
+  },
+  {
+    "category_id": "475",
+    "category_name": "IND | Devotional Religious",
+    "parent_id": 0
+  },
+  {
+    "category_id": "389",
+    "category_name": "IND | Regional",
+    "parent_id": 0
+  },
+  {
+    "category_id": "186",
+    "category_name": "IND | Bangla",
+    "parent_id": 0
+  },
+  {
+    "category_id": "188",
+    "category_name": "IND | Tamil",
+    "parent_id": 0
+  },
+  {
+    "category_id": "187",
+    "category_name": "IND | Gujarati",
+    "parent_id": 0
+  },
+  {
+    "category_id": "189",
+    "category_name": "IND | Telugu",
+    "parent_id": 0
+  },
+  {
+    "category_id": "350",
+    "category_name": "IND | Marathi",
+    "parent_id": 0
+  },
+  {
+    "category_id": "191",
+    "category_name": "IND | Malayalam",
+    "parent_id": 0
+  },
+  {
+    "category_id": "192",
+    "category_name": "IND | Punjabi",
+    "parent_id": 0
+  },
+  {
+    "category_id": "190",
+    "category_name": "IND | Kannada",
+    "parent_id": 0
+  },
+  {
+    "category_id": "420",
+    "category_name": " IND | Bhojpuri",
+    "parent_id": 0
+  },
+  {
+    "category_id": "407",
+    "category_name": " IND | Odia",
+    "parent_id": 0
+  }
+]

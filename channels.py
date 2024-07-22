@@ -1,7 +1,7 @@
 import json
 import os
-import requests
 import config
+import requests
 
 class Channel:
     def __init__(self) -> None:
@@ -9,38 +9,14 @@ class Channel:
         self.username = config.provider['username']
         self.password = config.provider['password']
 
-        self.categories = [
-            "35", "186", "187", "188", "189", "190", "191", "192", "193",
-            "215", "232", "335", "338", "339", "350", "385", "389", "392",
-            "407", "420", "422", "435",
-        ]
-        self.category_names = {
-            "35": "News",
-            "186": "Entertainment",
-            "187": "Movies",
-            "188": "Music",
-            "189": "Sports",
-            "190": "Kids",
-            "191": "Lifestyle",
-            "192": "Infotainment",
-            "193": "Documentary",
-            "215": "Devotional",
-            "232": "Regional",
-            "335": "Comedy",
-            "338": "Shopping",
-            "339": "Educational",
-            "350": "HD",
-            "385": "4K",
-            "389": "Classic",
-            "392": "Reality",
-            "407": "International",
-            "420": "Special Interest",
-            "422": "PPV",
-            "435": "Adult",
-        }
-
         # Ensure the data directory exists
         os.makedirs('data', exist_ok=True)
+
+        # Load categories from categories.json
+        with open("indian_categories.json") as file:
+            self.categories = json.load(file)
+        
+        self.category_dict = {category['category_id']: category['category_name'] for category in self.categories}
 
     def get_all_channels(self) -> list:
         url = f"{self.server}/player_api.php?username={self.username}&password={self.password}&action=get_live_streams"
@@ -67,7 +43,7 @@ class Channel:
         except json.JSONDecodeError:
             raise Exception("Error decoding JSON from data/all_channels.json.")
 
-        indian_links = [item for item in data if item['category_id'] in self.categories]
+        indian_links = [item for item in data if item['category_id'] in self.category_dict]
 
         # Remove duplicates
         indian_links = [dict(t) for t in {tuple(d.items()) for d in indian_links}]
@@ -81,16 +57,16 @@ class Channel:
 
     def get_channel_categories(self, channel: dict) -> list:
         categories = []
-        for category_id in self.categories:
-            if category_id in channel.get('category_id', []):
-                categories.append(self.category_names.get(category_id, "Unknown"))
+        for category_id in channel.get('category_id', []):
+            if category_id in self.category_dict:
+                categories.append(self.category_dict[category_id])
         
         # Additional logic to determine if a channel is HD or 4K
         name_upper = channel.get('name', '').upper()
-        if "4K" in name_upper and "4K" not in categories:
-            categories.append("4K")
-        if "HD" in name_upper and "HD" not in categories:
-            categories.append("HD")
+        if "4K" in name_upper and "IND | 4K Ultra HD" not in categories:
+            categories.append("IND | 4K Ultra HD")
+        if "HD" in name_upper and "IND | HD" not in categories:
+            categories.append("IND | HD")
 
         return categories
 
