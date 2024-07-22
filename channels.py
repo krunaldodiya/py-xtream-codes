@@ -14,6 +14,31 @@ class Channel:
             "215", "232", "335", "338", "339", "350", "385", "389", "392",
             "407", "420", "422", "435",
         ]
+        self.category_names = {
+            "35": "News",
+            "186": "Entertainment",
+            "187": "Movies",
+            "188": "Music",
+            "189": "Sports",
+            "190": "Kids",
+            "191": "Lifestyle",
+            "192": "Infotainment",
+            "193": "Documentary",
+            "215": "Devotional",
+            "232": "Regional",
+            "335": "Comedy",
+            "338": "Shopping",
+            "339": "Educational",
+            "350": "HD",
+            "385": "4K",
+            "389": "Classic",
+            "392": "Reality",
+            "407": "International",
+            "420": "Special Interest",
+            "422": "PPV",
+            "435": "Adult",
+        }
+
         # Ensure the data directory exists
         os.makedirs('data', exist_ok=True)
 
@@ -54,8 +79,23 @@ class Channel:
 
         return indian_links
 
+    def get_channel_categories(self, channel: dict) -> list:
+        categories = []
+        for category_id in self.categories:
+            if category_id in channel.get('category_id', []):
+                categories.append(self.category_names.get(category_id, "Unknown"))
+        
+        # Additional logic to determine if a channel is HD or 4K
+        name_upper = channel.get('name', '').upper()
+        if "4K" in name_upper and "4K" not in categories:
+            categories.append("4K")
+        if "HD" in name_upper and "HD" not in categories:
+            categories.append("HD")
+
+        return categories
+
     def generate_m3u(self, channels, file_name) -> None:
-        epg_url = "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+        epg_url = "http://rstream.me/epg.xml.gz"
 
         if not channels:
             print("No channels found or error reading data.")
@@ -67,6 +107,7 @@ class Channel:
             stream_id = channel.get('stream_id', '')
             channel_name = channel.get('name', '')
             channel_logo = channel.get('stream_icon', '')
+            categories = ", ".join(self.get_channel_categories(channel))
             channel_country = "India"
             channel_language = "Hindi"
             url = f"http://mega4k.one:8080/live/{self.username}/{self.password}/{stream_id}.ts"
@@ -75,7 +116,7 @@ class Channel:
                 f"#EXTINF:-1 tvg-id=\"{stream_id}\" tvg-name=\"{channel_name}\" "
                 f"tvg-country=\"{channel_country}\" tvg-language=\"{channel_language}\" "
                 f"tvg-logo=\"{channel_logo}\" tvg-chno=\"{channel.get('num', '')}\" "
-                f"group-title=\"{channel_name}\",{channel_name}\n{url}\n"
+                f"group-title=\"{categories}\",{channel_name}\n{url}\n"
             )
 
         # Write the m3u playlist to a file
@@ -84,12 +125,19 @@ class Channel:
         print(f"m3u playlist saved as data/{file_name}")
 
     def generate_hd_m3u(self, indian_channels, file_name) -> None:
+        # Check if "HD" or "4K" is in the channel name
         hd_indian_links = [item for item in indian_channels if any(term in item['name'].upper() for term in ["HD", "4K"])]
 
         # Write the filtered HD channels to indian_hd_channels.json
         with open("data/indian_hd_channels.json", "w") as file:
             json.dump(hd_indian_links, file, indent=4)
-        print(f"Filtered and saved ({len(hd_indian_links)}) HD channels to data/indian_hd_channels.json.")
+        print("Filtered and saved HD/4K channels to data/indian_hd_channels.json.")
 
         # Generate the m3u playlist for HD channels
         self.generate_m3u(hd_indian_links, file_name)
+
+# Instantiate the Channel class and generate the m3u playlists
+channel = Channel()
+indian_channels = channel.get_indian_channels()
+channel.generate_m3u(indian_channels, "indian_channels.m3u")
+channel.generate_hd_m3u(indian_channels, "indian_hd_channels.m3u")
