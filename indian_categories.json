@@ -1,107 +1,107 @@
 [
   {
     "category_id": "392",
-    "category_name": "IND | Entertainment",
+    "category_name": "Entertainment",
     "parent_id": 0
   },
   {
     "category_id": "422",
-    "category_name": "IND | 4K Ultra HD",
+    "category_name": "4K Ultra HD",
     "parent_id": 0
   },
   {
     "category_id": "232",
-    "category_name": "IND | Movies",
+    "category_name": "Movies",
     "parent_id": 0
   },
   {
     "category_id": "339",
-    "category_name": "IND | News",
+    "category_name": "News",
     "parent_id": 0
   },
   {
     "category_id": "193",
-    "category_name": "IND | Documentary",
+    "category_name": "Documentary",
     "parent_id": 0
   },
   {
     "category_id": "35",
-    "category_name": "IND | Kids",
+    "category_name": "Kids",
     "parent_id": 0
   },
   {
     "category_id": "215",
-    "category_name": "IND | Music",
+    "category_name": "Music",
     "parent_id": 0
   },
   {
     "category_id": "338",
-    "category_name": "IND | English Movies",
+    "category_name": "English Movies",
     "parent_id": 0
   },
   {
     "category_id": "435",
-    "category_name": "IND | Discovery Plus",
+    "category_name": "Discovery Plus",
     "parent_id": 0
   },
   {
     "category_id": "475",
-    "category_name": "IND | Devotional Religious",
+    "category_name": "Devotional Religious",
     "parent_id": 0
   },
   {
     "category_id": "389",
-    "category_name": "IND | Regional",
+    "category_name": "Regional",
     "parent_id": 0
   },
   {
     "category_id": "186",
-    "category_name": "IND | Bangla",
+    "category_name": "Bangla",
     "parent_id": 0
   },
   {
     "category_id": "188",
-    "category_name": "IND | Tamil",
+    "category_name": "Tamil",
     "parent_id": 0
   },
   {
     "category_id": "187",
-    "category_name": "IND | Gujarati",
+    "category_name": "Gujarati",
     "parent_id": 0
   },
   {
     "category_id": "189",
-    "category_name": "IND | Telugu",
+    "category_name": "Telugu",
     "parent_id": 0
   },
   {
     "category_id": "350",
-    "category_name": "IND | Marathi",
+    "category_name": "Marathi",
     "parent_id": 0
   },
   {
     "category_id": "191",
-    "category_name": "IND | Malayalam",
+    "category_name": "Malayalam",
     "parent_id": 0
   },
   {
     "category_id": "192",
-    "category_name": "IND | Punjabi",
+    "category_name": "Punjabi",
     "parent_id": 0
   },
   {
     "category_id": "190",
-    "category_name": "IND | Kannada",
+    "category_name": "Kannada",
     "parent_id": 0
   },
   {
     "category_id": "420",
-    "category_name": " IND | Bhojpuri",
+    "category_name": " Bhojpuri",
     "parent_id": 0
   },
   {
     "category_id": "407",
-    "category_name": " IND | Odia",
+    "category_name": " Odia",
     "parent_id": 0
   }
 ]

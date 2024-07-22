@@ -15,8 +15,6 @@ class Channel:
         # Load categories from categories.json
         with open("indian_categories.json") as file:
             self.categories = json.load(file)
-        
-        self.category_dict = {category['category_id']: category['category_name'] for category in self.categories}
 
     def get_all_channels(self) -> list:
         url = f"{self.server}/player_api.php?username={self.username}&password={self.password}&action=get_live_streams"
@@ -32,6 +30,9 @@ class Channel:
             print(f"Failed to fetch channels from the server: {e}")
             return []
 
+    def get_category_name(self, category_id):
+        return [category['category_name'] for category in self.categories if category['category_id'] == category_id][0]
+    
     def get_indian_channels(self) -> list:
         try:
             with open("data/all_channels.json") as file:
@@ -43,7 +44,7 @@ class Channel:
         except json.JSONDecodeError:
             raise Exception("Error decoding JSON from data/all_channels.json.")
 
-        indian_links = [item for item in data if item['category_id'] in self.category_dict]
+        indian_links = [{**item, "category_name": self.get_category_name(item['category_id'])} for item in data if item['category_id'] in [category['category_id'] for category in self.categories]]
 
         # Remove duplicates
         indian_links = [dict(t) for t in {tuple(d.items()) for d in indian_links}]
@@ -54,21 +55,6 @@ class Channel:
         print("Filtered and saved Indian channels successfully.")
 
         return indian_links
-
-    def get_channel_categories(self, channel: dict) -> list:
-        categories = []
-        for category_id in channel.get('category_id', []):
-            if category_id in self.category_dict:
-                categories.append(self.category_dict[category_id])
-        
-        # Additional logic to determine if a channel is HD or 4K
-        name_upper = channel.get('name', '').upper()
-        if "4K" in name_upper and "IND | 4K Ultra HD" not in categories:
-            categories.append("IND | 4K Ultra HD")
-        if "HD" in name_upper and "IND | HD" not in categories:
-            categories.append("IND | HD")
-
-        return categories
 
     def generate_m3u(self, channels, file_name) -> None:
         epg_url = "http://rstream.me/epg.xml.gz"
@@ -83,7 +69,7 @@ class Channel:
             stream_id = channel.get('stream_id', '')
             channel_name = channel.get('name', '')
             channel_logo = channel.get('stream_icon', '')
-            categories = ", ".join(self.get_channel_categories(channel))
+            channel_category = channel.get('category_name', '')
             channel_country = "India"
             channel_language = "Hindi"
             url = f"http://mega4k.one:8080/live/{self.username}/{self.password}/{stream_id}.ts"
@@ -92,7 +78,7 @@ class Channel:
                 f"#EXTINF:-1 tvg-id=\"{stream_id}\" tvg-name=\"{channel_name}\" "
                 f"tvg-country=\"{channel_country}\" tvg-language=\"{channel_language}\" "
                 f"tvg-logo=\"{channel_logo}\" tvg-chno=\"{channel.get('num', '')}\" "
-                f"group-title=\"{categories}\",{channel_name}\n{url}\n"
+                f"group-title=\"{channel_category}\",{channel_name}\n{url}\n"
             )
 
         # Write the m3u playlist to a file
