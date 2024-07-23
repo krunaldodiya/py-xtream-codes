@@ -30,11 +30,6 @@
     "parent_id": 0
   },
   {
-    "category_id": "215",
-    "category_name": "Music",
-    "parent_id": 0
-  },
-  {
     "category_id": "338",
     "category_name": "English Movies",
     "parent_id": 0
@@ -52,11 +47,6 @@
   {
     "category_id": "389",
     "category_name": "Regional",
-    "parent_id": 0
-  },
-  {
-    "category_id": "186",
-    "category_name": "Bangla",
     "parent_id": 0
   },
   {
@@ -92,16 +82,6 @@
   {
     "category_id": "190",
     "category_name": "Kannada",
-    "parent_id": 0
-  },
-  {
-    "category_id": "420",
-    "category_name": " Bhojpuri",
-    "parent_id": 0
-  },
-  {
-    "category_id": "407",
-    "category_name": " Odia",
     "parent_id": 0
   }
 ]
