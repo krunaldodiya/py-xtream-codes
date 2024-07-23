@@ -1,305 +1,305 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
-#EXTINF:-1 tvg-id="85219" tvg-name="IN | COLORS CINEPLEX HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" tvg-chno="1417" group-title="Movies",IN | COLORS CINEPLEX HD
-http://mega4k.one:8080/live/vicky123/123456/85219.ts
-#EXTINF:-1 tvg-id="89915" tvg-name="IND: &EXPLOR HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-chno="1484" group-title="Movies",IND: &EXPLOR HD
-http://mega4k.one:8080/live/vicky123/123456/89915.ts
-#EXTINF:-1 tvg-id="94166" tvg-name="GUJ: TV9 GUJARATI HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1653" group-title="Gujarati",GUJ: TV9 GUJARATI HD
-http://mega4k.one:8080/live/vicky123/123456/94166.ts
-#EXTINF:-1 tvg-id="74433" tvg-name="IN: Travel XP HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" tvg-chno="1365" group-title="Documentary",IN: Travel XP HD
-http://mega4k.one:8080/live/vicky123/123456/74433.ts
-#EXTINF:-1 tvg-id="97482" tvg-name="&Tv 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3585" group-title="4K Ultra HD",&Tv 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97482.ts
-#EXTINF:-1 tvg-id="74811" tvg-name="IN | AXN HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/kr/AXN.kr.png" tvg-chno="1397" group-title="English Movies",IN | AXN HD
-http://mega4k.one:8080/live/vicky123/123456/74811.ts
-#EXTINF:-1 tvg-id="122099" tvg-name="ZEE MARATHI 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8571" group-title="4K Ultra HD",ZEE MARATHI 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122099.ts
-#EXTINF:-1 tvg-id="74790" tvg-name="IN | &Tv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" tvg-chno="1380" group-title="Entertainment",IN | &Tv HD
-http://mega4k.one:8080/live/vicky123/123456/74790.ts
-#EXTINF:-1 tvg-id="94196" tvg-name="pkind-MARATHI: Zee Talkies HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1683" group-title="Marathi",pkind-MARATHI: Zee Talkies HD
-http://mega4k.one:8080/live/vicky123/123456/94196.ts
-#EXTINF:-1 tvg-id="85216" tvg-name="IN | SONY MAX HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" tvg-chno="1414" group-title="Movies",IN | SONY MAX HD
-http://mega4k.one:8080/live/vicky123/123456/85216.ts
-#EXTINF:-1 tvg-id="94082" tvg-name="IND-Tamil : Star Vijay HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1570" group-title="Tamil",IND-Tamil : Star Vijay HD
-http://mega4k.one:8080/live/vicky123/123456/94082.ts
-#EXTINF:-1 tvg-id="100461" tvg-name="Discovery HD Hindi" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/OVIuZyY.png" tvg-chno="4282" group-title="Discovery Plus",Discovery HD Hindi
-http://mega4k.one:8080/live/vicky123/123456/100461.ts
-#EXTINF:-1 tvg-id="122102" tvg-name="colors Marathi 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8574" group-title="4K Ultra HD",colors Marathi 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122102.ts
-#EXTINF:-1 tvg-id="94262" tvg-name="Star Maa FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1729" group-title="Regional",Star Maa FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94262.ts
-#EXTINF:-1 tvg-id="97502" tvg-name="HISTORY TV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3598" group-title="4K Ultra HD",HISTORY TV 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97502.ts
-#EXTINF:-1 tvg-id="97507" tvg-name="DISCOVERY 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3603" group-title="4K Ultra HD",DISCOVERY 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97507.ts
-#EXTINF:-1 tvg-id="122085" tvg-name="Star Sports Select 1 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8557" group-title="4K Ultra HD",Star Sports Select 1 4K Ultra HD.
-http://mega4k.one:8080/live/vicky123/123456/122085.ts
-#EXTINF:-1 tvg-id="94264" tvg-name="Gemini Movies FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1731" group-title="Regional",Gemini Movies FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94264.ts
-#EXTINF:-1 tvg-id="122094" tvg-name="Colors Bangla 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8566" group-title="4K Ultra HD",Colors Bangla 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122094.ts
-#EXTINF:-1 tvg-id="97476" tvg-name="ZEE TV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3579" group-title="4K Ultra HD",ZEE TV 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97476.ts
-#EXTINF:-1 tvg-id="122084" tvg-name="Star Sports 2 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8556" group-title="4K Ultra HD",Star Sports 2 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122084.ts
-#EXTINF:-1 tvg-id="97506" tvg-name="TLC 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3602" group-title="4K Ultra HD",TLC 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97506.ts
-#EXTINF:-1 tvg-id="94172" tvg-name="ind: Colors Kannnada FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1659" group-title="Kannada",ind: Colors Kannnada FHD
-http://mega4k.one:8080/live/vicky123/123456/94172.ts
-#EXTINF:-1 tvg-id="122083" tvg-name="Star Sports 1 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8555" group-title="4K Ultra HD",Star Sports 1 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122083.ts
-#EXTINF:-1 tvg-id="74808" tvg-name="IN | Fox Life FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/e88154a3072f9b1a308349526c741e6e.jpg" tvg-chno="1395" group-title="Documentary",IN | Fox Life FHD
-http://mega4k.one:8080/live/vicky123/123456/74808.ts
-#EXTINF:-1 tvg-id="122107" tvg-name="Star Jalsha Movies 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8579" group-title="4K Ultra HD",Star Jalsha Movies 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122107.ts
-#EXTINF:-1 tvg-id="94261" tvg-name="ZEE TALKIE FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1728" group-title="Regional",ZEE TALKIE FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94261.ts
-#EXTINF:-1 tvg-id="122108" tvg-name="Star Pravah 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8580" group-title="4K Ultra HD",Star Pravah 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122108.ts
-#EXTINF:-1 tvg-id="85212" tvg-name="IN | ZEE CINEMA HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" tvg-chno="1410" group-title="Movies",IN | ZEE CINEMA HD
-http://mega4k.one:8080/live/vicky123/123456/85212.ts
-#EXTINF:-1 tvg-id="74804" tvg-name="IN | Romdy Now HD @" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" tvg-chno="1392" group-title="English Movies",IN | Romdy Now HD @
-http://mega4k.one:8080/live/vicky123/123456/74804.ts
-#EXTINF:-1 tvg-id="94228" tvg-name="IND-Telugu: Gemini HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1695" group-title="Telugu",IND-Telugu: Gemini HD
-http://mega4k.one:8080/live/vicky123/123456/94228.ts
-#EXTINF:-1 tvg-id="131236" tvg-name="Prime Asia TV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://157.15.202.13:5001/jtvimage/Prime_Asia_Tv.png" tvg-chno="9381" group-title="Punjabi",Prime Asia TV HD
-http://mega4k.one:8080/live/vicky123/123456/131236.ts
-#EXTINF:-1 tvg-id="97505" tvg-name="Sony BBC Ear 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3601" group-title="4K Ultra HD",Sony BBC Ear 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97505.ts
-#EXTINF:-1 tvg-id="74801" tvg-name="IN | HBO HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-chno="1390" group-title="English Movies",IN | HBO HD
-http://mega4k.one:8080/live/vicky123/123456/74801.ts
-#EXTINF:-1 tvg-id="74772" tvg-name="IN | Zee TV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" tvg-chno="1374" group-title="Entertainment",IN | Zee TV HD
-http://mega4k.one:8080/live/vicky123/123456/74772.ts
-#EXTINF:-1 tvg-id="122090" tvg-name="VIJAY 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8562" group-title="4K Ultra HD",VIJAY 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122090.ts
-#EXTINF:-1 tvg-id="122088" tvg-name="Sony Ten 2 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8560" group-title="4K Ultra HD",Sony Ten 2 4K Ultra HD.
-http://mega4k.one:8080/live/vicky123/123456/122088.ts
-#EXTINF:-1 tvg-id="89913" tvg-name="IND: MINIPLEX HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1482" group-title="Movies",IND: MINIPLEX HD
-http://mega4k.one:8080/live/vicky123/123456/89913.ts
-#EXTINF:-1 tvg-id="100467" tvg-name="Discovery HD Telugu" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ACHnTiu.png" tvg-chno="4288" group-title="Discovery Plus",Discovery HD Telugu
-http://mega4k.one:8080/live/vicky123/123456/100467.ts
-#EXTINF:-1 tvg-id="97489" tvg-name="Sony Pix 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3592" group-title="4K Ultra HD",Sony Pix 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97489.ts
-#EXTINF:-1 tvg-id="122081" tvg-name="Nick 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8553" group-title="4K Ultra HD",Nick 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122081.ts
-#EXTINF:-1 tvg-id="97503" tvg-name="NAT Geo Wild 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3599" group-title="4K Ultra HD",NAT Geo Wild 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97503.ts
-#EXTINF:-1 tvg-id="94263" tvg-name="ETV FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1730" group-title="Regional",ETV FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94263.ts
-#EXTINF:-1 tvg-id="122105" tvg-name="Zee Telegu 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8577" group-title="4K Ultra HD",Zee Telegu 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122105.ts
-#EXTINF:-1 tvg-id="131274" tvg-name="Prime Asia HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://157.15.202.13:5001/jtvimage/Prime_Asia_HD.png" tvg-chno="9419" group-title="Punjabi",Prime Asia HD
-http://mega4k.one:8080/live/vicky123/123456/131274.ts
-#EXTINF:-1 tvg-id="100468" tvg-name="Discovery HD Kannada" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QxOjTQh.png" tvg-chno="4289" group-title="Discovery Plus",Discovery HD Kannada
-http://mega4k.one:8080/live/vicky123/123456/100468.ts
-#EXTINF:-1 tvg-id="94173" tvg-name="Zee Kannada FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1660" group-title="Kannada",Zee Kannada FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94173.ts
-#EXTINF:-1 tvg-id="94087" tvg-name="IND-Tamil : Zee Tamil HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1575" group-title="Tamil",IND-Tamil : Zee Tamil HD
-http://mega4k.one:8080/live/vicky123/123456/94087.ts
-#EXTINF:-1 tvg-id="94081" tvg-name="IND-Tamil : KTV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1569" group-title="Tamil",IND-Tamil : KTV HD
-http://mega4k.one:8080/live/vicky123/123456/94081.ts
-#EXTINF:-1 tvg-id="122089" tvg-name="Sony Ten 3 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8561" group-title="4K Ultra HD",Sony Ten 3 4K Ultra HD.
-http://mega4k.one:8080/live/vicky123/123456/122089.ts
-#EXTINF:-1 tvg-id="94085" tvg-name="IND-Tamil : Sun tv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1573" group-title="Tamil",IND-Tamil : Sun tv HD
-http://mega4k.one:8080/live/vicky123/123456/94085.ts
-#EXTINF:-1 tvg-id="94269" tvg-name="Npl-loc: Nepal TV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1736" group-title="Regional",Npl-loc: Nepal TV HD
-http://mega4k.one:8080/live/vicky123/123456/94269.ts
-#EXTINF:-1 tvg-id="74422" tvg-name="IN | : Discovery Science HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" tvg-chno="1361" group-title="Documentary",IN | : Discovery Science HD
-http://mega4k.one:8080/live/vicky123/123456/74422.ts
-#EXTINF:-1 tvg-id="94194" tvg-name="IND-MARATHI: Star Pravah HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1681" group-title="Marathi",IND-MARATHI: Star Pravah HD
-http://mega4k.one:8080/live/vicky123/123456/94194.ts
-#EXTINF:-1 tvg-id="74341" tvg-name="IN: Animal Planet HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" tvg-chno="1360" group-title="Documentary",IN: Animal Planet HD
-http://mega4k.one:8080/live/vicky123/123456/74341.ts
-#EXTINF:-1 tvg-id="122092" tvg-name="Star Jalsha 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8564" group-title="4K Ultra HD",Star Jalsha 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122092.ts
-#EXTINF:-1 tvg-id="122096" tvg-name="SURYA 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8568" group-title="4K Ultra HD",SURYA 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122096.ts
-#EXTINF:-1 tvg-id="74497" tvg-name="IN: Investigation Discovery HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" tvg-chno="1370" group-title="Documentary",IN: Investigation Discovery HD
-http://mega4k.one:8080/live/vicky123/123456/74497.ts
-#EXTINF:-1 tvg-id="118194" tvg-name="MTv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" tvg-chno="7579" group-title="Entertainment",MTv HD
-http://mega4k.one:8080/live/vicky123/123456/118194.ts
-#EXTINF:-1 tvg-id="97484" tvg-name="Star Gold 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3587" group-title="4K Ultra HD",Star Gold 4K Ultra HD 
-http://mega4k.one:8080/live/vicky123/123456/97484.ts
-#EXTINF:-1 tvg-id="74429" tvg-name="In: WB HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1364" group-title="English Movies",In: WB HD
-http://mega4k.one:8080/live/vicky123/123456/74429.ts
-#EXTINF:-1 tvg-id="74805" tvg-name="IN: MNX HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/MNPlus.in.png" tvg-chno="1393" group-title="English Movies",IN: MNX HD*
-http://mega4k.one:8080/live/vicky123/123456/74805.ts
-#EXTINF:-1 tvg-id="100479" tvg-name="TLC HD Hindi" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/zXNZqYa.png" tvg-chno="4300" group-title="Discovery Plus",TLC HD Hindi
-http://mega4k.one:8080/live/vicky123/123456/100479.ts
-#EXTINF:-1 tvg-id="122110" tvg-name="KTV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8582" group-title="4K Ultra HD",KTV 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122110.ts
-#EXTINF:-1 tvg-id="94265" tvg-name="Npl-Loc: KANTIPUR_HD_CINEPLEX" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1732" group-title="Regional",Npl-Loc: KANTIPUR_HD_CINEPLEX
-http://mega4k.one:8080/live/vicky123/123456/94265.ts
-#EXTINF:-1 tvg-id="97326" tvg-name="IND-Kannada: Udaya HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="3557" group-title="Kannada",IND-Kannada: Udaya HD
-http://mega4k.one:8080/live/vicky123/123456/97326.ts
-#EXTINF:-1 tvg-id="89949" tvg-name="IND: BOLLYWOOD HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1488" group-title="Movies",IND: BOLLYWOOD HD
-http://mega4k.one:8080/live/vicky123/123456/89949.ts
-#EXTINF:-1 tvg-id="74810" tvg-name="IN | Zee Cafe HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-chno="1396" group-title="English Movies",IN | Zee Cafe HD*
-http://mega4k.one:8080/live/vicky123/123456/74810.ts
-#EXTINF:-1 tvg-id="74781" tvg-name="IN | Colors HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" tvg-chno="1377" group-title="Entertainment",IN | Colors HD
-http://mega4k.one:8080/live/vicky123/123456/74781.ts
-#EXTINF:-1 tvg-id="122097" tvg-name="Sun Music 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8569" group-title="4K Ultra HD",Sun Music 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122097.ts
-#EXTINF:-1 tvg-id="122111" tvg-name="SUN TV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8583" group-title="4K Ultra HD",SUN TV 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122111.ts
-#EXTINF:-1 tvg-id="122100" tvg-name="UDAYA 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8572" group-title="4K Ultra HD",UDAYA 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122100.ts
-#EXTINF:-1 tvg-id="97491" tvg-name="Zee Cafe 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3594" group-title="4K Ultra HD",Zee Cafe 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97491.ts
-#EXTINF:-1 tvg-id="74798" tvg-name="IN | Star Movies FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/9bab347e290a3643559b32674242de33.png" tvg-chno="1387" group-title="English Movies",IN | Star Movies FHD
-http://mega4k.one:8080/live/vicky123/123456/74798.ts
-#EXTINF:-1 tvg-id="100469" tvg-name="Discovery HD Bangla" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pwFEzlz.png" tvg-chno="4290" group-title="Discovery Plus",Discovery HD Bangla
-http://mega4k.one:8080/live/vicky123/123456/100469.ts
-#EXTINF:-1 tvg-id="122104" tvg-name="Star Maa 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8576" group-title="4K Ultra HD",Star Maa 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122104.ts
-#EXTINF:-1 tvg-id="97485" tvg-name="Star Gold Select 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3588" group-title="4K Ultra HD",Star Gold Select 4K Ultra HD 
-http://mega4k.one:8080/live/vicky123/123456/97485.ts
-#EXTINF:-1 tvg-id="74423" tvg-name="IN | : Discovery Turbo HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" tvg-chno="1362" group-title="Documentary",IN | : Discovery Turbo HD
-http://mega4k.one:8080/live/vicky123/123456/74423.ts
-#EXTINF:-1 tvg-id="94165" tvg-name="Guj: Sandesh News HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1652" group-title="Gujarati",Guj: Sandesh News HD
-http://mega4k.one:8080/live/vicky123/123456/94165.ts
-#EXTINF:-1 tvg-id="74813" tvg-name="IN | Star World Premier HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" tvg-chno="1399" group-title="English Movies",IN | Star World Premier HD*
-http://mega4k.one:8080/live/vicky123/123456/74813.ts
-#EXTINF:-1 tvg-id="85208" tvg-name="IN | STAR GOLD HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" tvg-chno="1407" group-title="Movies",IN | STAR GOLD HD
-http://mega4k.one:8080/live/vicky123/123456/85208.ts
-#EXTINF:-1 tvg-id="97480" tvg-name="Star Bharat 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3583" group-title="4K Ultra HD",Star Bharat 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97480.ts
-#EXTINF:-1 tvg-id="74812" tvg-name="IN | Star Movies Select HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-chno="1398" group-title="English Movies",IN | Star Movies Select HD
-http://mega4k.one:8080/live/vicky123/123456/74812.ts
-#EXTINF:-1 tvg-id="74802" tvg-name="IN | & Flix HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="1391" group-title="English Movies",IN | & Flix HD
-http://mega4k.one:8080/live/vicky123/123456/74802.ts
-#EXTINF:-1 tvg-id="94259" tvg-name="Star Maa Mov FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1726" group-title="Regional",Star Maa Mov FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94259.ts
-#EXTINF:-1 tvg-id="94225" tvg-name="IND-Telugu: Etv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1692" group-title="Telugu",IND-Telugu: Etv HD
-http://mega4k.one:8080/live/vicky123/123456/94225.ts
-#EXTINF:-1 tvg-id="122091" tvg-name="Jalsha_Movies 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8563" group-title="4K Ultra HD",Jalsha_Movies 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122091.ts
-#EXTINF:-1 tvg-id="94091" tvg-name="IND-Tamil : Sun Music HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1579" group-title="Tamil",IND-Tamil : Sun Music HD
-http://mega4k.one:8080/live/vicky123/123456/94091.ts
 #EXTINF:-1 tvg-id="97492" tvg-name="colors INFINITY 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3595" group-title="4K Ultra HD",colors INFINITY 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97492.ts
-#EXTINF:-1 tvg-id="74799" tvg-name="IN | Sony Pix HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="1388" group-title="English Movies",IN | Sony Pix HD
-http://mega4k.one:8080/live/vicky123/123456/74799.ts
-#EXTINF:-1 tvg-id="94192" tvg-name="colors Marathi FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1679" group-title="Marathi",colors Marathi FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94192.ts
-#EXTINF:-1 tvg-id="97508" tvg-name="ANIMAL PLANET 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3604" group-title="4K Ultra HD",ANIMAL PLANET 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97508.ts
-#EXTINF:-1 tvg-id="94195" tvg-name="IND-MARATHI: Zee marathi HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1682" group-title="Marathi",IND-MARATHI: Zee marathi HD
-http://mega4k.one:8080/live/vicky123/123456/94195.ts
-#EXTINF:-1 tvg-id="122106" tvg-name="ETV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8578" group-title="4K Ultra HD",ETV 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122106.ts
-#EXTINF:-1 tvg-id="97501" tvg-name="FOX Life 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3597" group-title="4K Ultra HD",FOX Life 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97501.ts
-#EXTINF:-1 tvg-id="85207" tvg-name="IN | & PICTURE HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-chno="1406" group-title="Movies",IN | & PICTURE HD
-http://mega4k.one:8080/live/vicky123/123456/85207.ts
-#EXTINF:-1 tvg-id="100473" tvg-name="Animal Planet HD Hindi" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wv3P6KO.png" tvg-chno="4294" group-title="Discovery Plus",Animal Planet HD Hindi
-http://mega4k.one:8080/live/vicky123/123456/100473.ts
-#EXTINF:-1 tvg-id="94093" tvg-name="Zee Tamil FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1581" group-title="Tamil",Zee Tamil FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94093.ts
-#EXTINF:-1 tvg-id="122112" tvg-name="Love Nature 4K" tvg-country="India" tvg-language="Hindi" tvg-logo="https://mhdtvmax.net/wp-content/uploads/2021/01/images-1-17.png" tvg-chno="8584" group-title="Documentary",Love Nature 4K
-http://mega4k.one:8080/live/vicky123/123456/122112.ts
-#EXTINF:-1 tvg-id="74787" tvg-name="IN | Sony Sab HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" tvg-chno="1379" group-title="Entertainment",IN | Sony Sab HD
-http://mega4k.one:8080/live/vicky123/123456/74787.ts
-#EXTINF:-1 tvg-id="94314" tvg-name="IND-regional: Mazhavil_HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1781" group-title="Regional",IND-regional: Mazhavil_HD
-http://mega4k.one:8080/live/vicky123/123456/94314.ts
-#EXTINF:-1 tvg-id="85209" tvg-name="IN | STAR GOLD SELECT HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/fe0ccc2b2cc21cd459c630263a1a771c.jpg" tvg-chno="1408" group-title="Movies",IN | STAR GOLD SELECT HD
-http://mega4k.one:8080/live/vicky123/123456/85209.ts
-#EXTINF:-1 tvg-id="97500" tvg-name="Star Movies Select 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3596" group-title="4K Ultra HD",Star Movies Select 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97500.ts
-#EXTINF:-1 tvg-id="74775" tvg-name="IN | Sony SET HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" tvg-chno="1375" group-title="Entertainment",IN | Sony SET HD
-http://mega4k.one:8080/live/vicky123/123456/74775.ts
-#EXTINF:-1 tvg-id="97488" tvg-name="& flix 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3591" group-title="4K Ultra HD",& flix 4K Ultra HD 
-http://mega4k.one:8080/live/vicky123/123456/97488.ts
-#EXTINF:-1 tvg-id="97483" tvg-name="& Picture 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3586" group-title="4K Ultra HD",& Picture 4K Ultra HD 
-http://mega4k.one:8080/live/vicky123/123456/97483.ts
-#EXTINF:-1 tvg-id="97481" tvg-name="Sony Sab 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3584" group-title="4K Ultra HD",Sony Sab 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97481.ts
-#EXTINF:-1 tvg-id="74797" tvg-name="IN | Star World HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/b39ca2ecbafa7ca4db90afdeb61e8515.png" tvg-chno="1386" group-title="Movies",IN | Star World HD
-http://mega4k.one:8080/live/vicky123/123456/74797.ts
-#EXTINF:-1 tvg-id="122086" tvg-name="Star Sports Select 2 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8558" group-title="4K Ultra HD",Star Sports Select 2 4K Ultra HD.
-http://mega4k.one:8080/live/vicky123/123456/122086.ts
+https://xteam-itpv.vercel.app/stream/97492
 #EXTINF:-1 tvg-id="122109" tvg-name="Asianet 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8581" group-title="4K Ultra HD",Asianet 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122109.ts
-#EXTINF:-1 tvg-id="94260" tvg-name="UDAYA FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1727" group-title="Regional",UDAYA FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94260.ts
-#EXTINF:-1 tvg-id="74806" tvg-name="IN | Movies Now HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" tvg-chno="1394" group-title="English Movies",IN | Movies Now HD*
-http://mega4k.one:8080/live/vicky123/123456/74806.ts
-#EXTINF:-1 tvg-id="94080" tvg-name="IND-Tamil : Colors HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1568" group-title="Tamil",IND-Tamil : Colors HD
-http://mega4k.one:8080/live/vicky123/123456/94080.ts
-#EXTINF:-1 tvg-id="122087" tvg-name="Sony Ten 1 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8559" group-title="4K Ultra HD",Sony Ten 1 4K Ultra HD.
-http://mega4k.one:8080/live/vicky123/123456/122087.ts
-#EXTINF:-1 tvg-id="74468" tvg-name="IN | Eng: Colors Infinity FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1367" group-title="English Movies",IN | Eng: Colors Infinity FHD
-http://mega4k.one:8080/live/vicky123/123456/74468.ts
-#EXTINF:-1 tvg-id="122101" tvg-name="ZEE TALKIE 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8573" group-title="4K Ultra HD",ZEE TALKIE 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122101.ts
-#EXTINF:-1 tvg-id="74784" tvg-name="IN | Star Bharat HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" tvg-chno="1378" group-title="Entertainment",IN | Star Bharat HD
-http://mega4k.one:8080/live/vicky123/123456/74784.ts
-#EXTINF:-1 tvg-id="122103" tvg-name="Zee Tamil 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8575" group-title="4K Ultra HD",Zee Tamil 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122103.ts
-#EXTINF:-1 tvg-id="94255" tvg-name="GEMINI TV FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1722" group-title="Regional",GEMINI TV FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94255.ts
-#EXTINF:-1 tvg-id="97486" tvg-name="Zee Cinema 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3589" group-title="4K Ultra HD",Zee Cinema 4K Ultra HD 
-http://mega4k.one:8080/live/vicky123/123456/97486.ts
-#EXTINF:-1 tvg-id="100460" tvg-name="Discovery HD Malayalam" tvg-country="India" tvg-language="Hindi" tvg-logo="https://w5z4j5q3.rocketcdn.me/wp-content/uploads/2023/01/Fw8yvvx.png" tvg-chno="4281" group-title="Discovery Plus",Discovery HD Malayalam
-http://mega4k.one:8080/live/vicky123/123456/100460.ts
-#EXTINF:-1 tvg-id="94179" tvg-name="IND-Malayalam: Asianet HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1666" group-title="Malayalam",IND-Malayalam: Asianet HD
-http://mega4k.one:8080/live/vicky123/123456/94179.ts
-#EXTINF:-1 tvg-id="122098" tvg-name="Star Maa Mov 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8570" group-title="4K Ultra HD",Star Maa Mov 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122098.ts
-#EXTINF:-1 tvg-id="94257" tvg-name="SURYA FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1724" group-title="Regional",SURYA FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94257.ts
-#EXTINF:-1 tvg-id="122095" tvg-name="Colors Tamil 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8567" group-title="4K Ultra HD",Colors Tamil 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122095.ts
-#EXTINF:-1 tvg-id="74778" tvg-name="IN | Star Plus HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" tvg-chno="1376" group-title="Entertainment",IN | Star Plus HD
-http://mega4k.one:8080/live/vicky123/123456/74778.ts
-#EXTINF:-1 tvg-id="97322" tvg-name="IND-Kannada: Colors Kannada HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="3553" group-title="Kannada",IND-Kannada: Colors Kannada HD
-http://mega4k.one:8080/live/vicky123/123456/97322.ts
-#EXTINF:-1 tvg-id="94258" tvg-name="Sun Music FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1725" group-title="Regional",Sun Music FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94258.ts
-#EXTINF:-1 tvg-id="94233" tvg-name="IND-Telugu: Maa HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1700" group-title="Telugu",IND-Telugu: Maa HD
-http://mega4k.one:8080/live/vicky123/123456/94233.ts
-#EXTINF:-1 tvg-id="97479" tvg-name="Colors 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3582" group-title="4K Ultra HD",Colors 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97479.ts
-#EXTINF:-1 tvg-id="94253" tvg-name="SUN TV FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1720" group-title="Regional",SUN TV FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94253.ts
-#EXTINF:-1 tvg-id="94092" tvg-name="Colors Tamil FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1580" group-title="Tamil",Colors Tamil FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94092.ts
-#EXTINF:-1 tvg-id="97487" tvg-name="Sony Max 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3590" group-title="4K Ultra HD",Sony Max 4K Ultra HD 
-http://mega4k.one:8080/live/vicky123/123456/97487.ts
-#EXTINF:-1 tvg-id="74424" tvg-name="IN: Discovery World HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" tvg-chno="1363" group-title="Documentary",IN: Discovery World HD
-http://mega4k.one:8080/live/vicky123/123456/74424.ts
-#EXTINF:-1 tvg-id="122093" tvg-name="Zee Bangla 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8565" group-title="4K Ultra HD",Zee Bangla 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122093.ts
-#EXTINF:-1 tvg-id="92409" tvg-name="Nick HD+" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" tvg-chno="1529" group-title="Kids",Nick HD+
-http://mega4k.one:8080/live/vicky123/123456/92409.ts
-#EXTINF:-1 tvg-id="100458" tvg-name="TLC HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vccxxOt.png" tvg-chno="4279" group-title="Discovery Plus",TLC HD
-http://mega4k.one:8080/live/vicky123/123456/100458.ts
-#EXTINF:-1 tvg-id="94191" tvg-name="IND-MARATHI: Colors Marathi HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1678" group-title="Marathi",IND-MARATHI: Colors Marathi HD
-http://mega4k.one:8080/live/vicky123/123456/94191.ts
+https://xteam-itpv.vercel.app/stream/122109
 #EXTINF:-1 tvg-id="100472" tvg-name="Animal Planet HD Tamil" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CQKip1J.png" tvg-chno="4293" group-title="Discovery Plus",Animal Planet HD Tamil
-http://mega4k.one:8080/live/vicky123/123456/100472.ts
-#EXTINF:-1 tvg-id="94254" tvg-name="VIJAY FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1721" group-title="Regional",VIJAY FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94254.ts
-#EXTINF:-1 tvg-id="74800" tvg-name="IN | &Prive HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="1389" group-title="English Movies",IN | &Prive HD
-http://mega4k.one:8080/live/vicky123/123456/74800.ts
-#EXTINF:-1 tvg-id="100459" tvg-name="Discovery HD Tamil" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wJHjFj6.png" tvg-chno="4280" group-title="Discovery Plus",Discovery HD Tamil
-http://mega4k.one:8080/live/vicky123/123456/100459.ts
-#EXTINF:-1 tvg-id="122082" tvg-name="Disney 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8554" group-title="4K Ultra HD",Disney 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/122082.ts
+https://xteam-itpv.vercel.app/stream/100472
+#EXTINF:-1 tvg-id="94179" tvg-name="IND-Malayalam: Asianet HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1666" group-title="Malayalam",IND-Malayalam: Asianet HD
+https://xteam-itpv.vercel.app/stream/94179
+#EXTINF:-1 tvg-id="122090" tvg-name="VIJAY 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8562" group-title="4K Ultra HD",VIJAY 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122090
+#EXTINF:-1 tvg-id="94192" tvg-name="colors Marathi FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1679" group-title="Marathi",colors Marathi FHD 1080
+https://xteam-itpv.vercel.app/stream/94192
+#EXTINF:-1 tvg-id="94260" tvg-name="UDAYA FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1727" group-title="Regional",UDAYA FHD 1080
+https://xteam-itpv.vercel.app/stream/94260
 #EXTINF:-1 tvg-id="74464" tvg-name="IN: BBC Earth HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png" tvg-chno="1366" group-title="Documentary",IN: BBC Earth HD
-http://mega4k.one:8080/live/vicky123/123456/74464.ts
-#EXTINF:-1 tvg-id="97477" tvg-name="Sony SET 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3580" group-title="4K Ultra HD",Sony SET 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97477.ts
-#EXTINF:-1 tvg-id="94186" tvg-name="IND-Malayalam: Surya HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1673" group-title="Malayalam",IND-Malayalam: Surya HD
-http://mega4k.one:8080/live/vicky123/123456/94186.ts
+https://xteam-itpv.vercel.app/stream/74464
+#EXTINF:-1 tvg-id="94195" tvg-name="IND-MARATHI: Zee marathi HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1682" group-title="Marathi",IND-MARATHI: Zee marathi HD
+https://xteam-itpv.vercel.app/stream/94195
+#EXTINF:-1 tvg-id="97482" tvg-name="&Tv 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3585" group-title="4K Ultra HD",&Tv 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97482
+#EXTINF:-1 tvg-id="94264" tvg-name="Gemini Movies FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1731" group-title="Regional",Gemini Movies FHD 1080
+https://xteam-itpv.vercel.app/stream/94264
+#EXTINF:-1 tvg-id="100461" tvg-name="Discovery HD Hindi" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/OVIuZyY.png" tvg-chno="4282" group-title="Discovery Plus",Discovery HD Hindi
+https://xteam-itpv.vercel.app/stream/100461
+#EXTINF:-1 tvg-id="74341" tvg-name="IN: Animal Planet HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png" tvg-chno="1360" group-title="Documentary",IN: Animal Planet HD
+https://xteam-itpv.vercel.app/stream/74341
+#EXTINF:-1 tvg-id="94080" tvg-name="IND-Tamil : Colors HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1568" group-title="Tamil",IND-Tamil : Colors HD
+https://xteam-itpv.vercel.app/stream/94080
+#EXTINF:-1 tvg-id="97484" tvg-name="Star Gold 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3587" group-title="4K Ultra HD",Star Gold 4K Ultra HD 
+https://xteam-itpv.vercel.app/stream/97484
+#EXTINF:-1 tvg-id="122089" tvg-name="Sony Ten 3 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8561" group-title="4K Ultra HD",Sony Ten 3 4K Ultra HD.
+https://xteam-itpv.vercel.app/stream/122089
+#EXTINF:-1 tvg-id="122102" tvg-name="colors Marathi 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8574" group-title="4K Ultra HD",colors Marathi 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122102
+#EXTINF:-1 tvg-id="100473" tvg-name="Animal Planet HD Hindi" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wv3P6KO.png" tvg-chno="4294" group-title="Discovery Plus",Animal Planet HD Hindi
+https://xteam-itpv.vercel.app/stream/100473
+#EXTINF:-1 tvg-id="94196" tvg-name="pkind-MARATHI: Zee Talkies HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1683" group-title="Marathi",pkind-MARATHI: Zee Talkies HD
+https://xteam-itpv.vercel.app/stream/94196
+#EXTINF:-1 tvg-id="74781" tvg-name="IN | Colors HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" tvg-chno="1377" group-title="Entertainment",IN | Colors HD
+https://xteam-itpv.vercel.app/stream/74781
+#EXTINF:-1 tvg-id="122088" tvg-name="Sony Ten 2 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8560" group-title="4K Ultra HD",Sony Ten 2 4K Ultra HD.
+https://xteam-itpv.vercel.app/stream/122088
+#EXTINF:-1 tvg-id="74801" tvg-name="IN | HBO HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/HBO.in.png" tvg-chno="1390" group-title="English Movies",IN | HBO HD
+https://xteam-itpv.vercel.app/stream/74801
+#EXTINF:-1 tvg-id="97483" tvg-name="& Picture 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3586" group-title="4K Ultra HD",& Picture 4K Ultra HD 
+https://xteam-itpv.vercel.app/stream/97483
+#EXTINF:-1 tvg-id="74778" tvg-name="IN | Star Plus HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" tvg-chno="1376" group-title="Entertainment",IN | Star Plus HD
+https://xteam-itpv.vercel.app/stream/74778
+#EXTINF:-1 tvg-id="94166" tvg-name="GUJ: TV9 GUJARATI HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1653" group-title="Gujarati",GUJ: TV9 GUJARATI HD
+https://xteam-itpv.vercel.app/stream/94166
+#EXTINF:-1 tvg-id="85212" tvg-name="IN | ZEE CINEMA HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" tvg-chno="1410" group-title="Movies",IN | ZEE CINEMA HD
+https://xteam-itpv.vercel.app/stream/85212
+#EXTINF:-1 tvg-id="74497" tvg-name="IN: Investigation Discovery HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" tvg-chno="1370" group-title="Documentary",IN: Investigation Discovery HD
+https://xteam-itpv.vercel.app/stream/74497
+#EXTINF:-1 tvg-id="122104" tvg-name="Star Maa 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8576" group-title="4K Ultra HD",Star Maa 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122104
+#EXTINF:-1 tvg-id="74787" tvg-name="IN | Sony Sab HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" tvg-chno="1379" group-title="Entertainment",IN | Sony Sab HD
+https://xteam-itpv.vercel.app/stream/74787
+#EXTINF:-1 tvg-id="122101" tvg-name="ZEE TALKIE 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8573" group-title="4K Ultra HD",ZEE TALKIE 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122101
+#EXTINF:-1 tvg-id="122108" tvg-name="Star Pravah 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8580" group-title="4K Ultra HD",Star Pravah 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122108
+#EXTINF:-1 tvg-id="94173" tvg-name="Zee Kannada FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1660" group-title="Kannada",Zee Kannada FHD 1080
+https://xteam-itpv.vercel.app/stream/94173
+#EXTINF:-1 tvg-id="94254" tvg-name="VIJAY FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1721" group-title="Regional",VIJAY FHD 1080
+https://xteam-itpv.vercel.app/stream/94254
+#EXTINF:-1 tvg-id="74433" tvg-name="IN: Travel XP HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png" tvg-chno="1365" group-title="Documentary",IN: Travel XP HD
+https://xteam-itpv.vercel.app/stream/74433
+#EXTINF:-1 tvg-id="94258" tvg-name="Sun Music FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1725" group-title="Regional",Sun Music FHD 1080
+https://xteam-itpv.vercel.app/stream/94258
+#EXTINF:-1 tvg-id="74775" tvg-name="IN | Sony SET HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" tvg-chno="1375" group-title="Entertainment",IN | Sony SET HD
+https://xteam-itpv.vercel.app/stream/74775
+#EXTINF:-1 tvg-id="85209" tvg-name="IN | STAR GOLD SELECT HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/fe0ccc2b2cc21cd459c630263a1a771c.jpg" tvg-chno="1408" group-title="Movies",IN | STAR GOLD SELECT HD
+https://xteam-itpv.vercel.app/stream/85209
+#EXTINF:-1 tvg-id="94228" tvg-name="IND-Telugu: Gemini HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1695" group-title="Telugu",IND-Telugu: Gemini HD
+https://xteam-itpv.vercel.app/stream/94228
+#EXTINF:-1 tvg-id="122098" tvg-name="Star Maa Mov 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8570" group-title="4K Ultra HD",Star Maa Mov 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122098
+#EXTINF:-1 tvg-id="74808" tvg-name="IN | Fox Life FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/e88154a3072f9b1a308349526c741e6e.jpg" tvg-chno="1395" group-title="Documentary",IN | Fox Life FHD
+https://xteam-itpv.vercel.app/stream/74808
+#EXTINF:-1 tvg-id="122096" tvg-name="SURYA 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8568" group-title="4K Ultra HD",SURYA 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122096
+#EXTINF:-1 tvg-id="97501" tvg-name="FOX Life 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3597" group-title="4K Ultra HD",FOX Life 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97501
+#EXTINF:-1 tvg-id="74800" tvg-name="IN | &Prive HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-chno="1389" group-title="English Movies",IN | &Prive HD
+https://xteam-itpv.vercel.app/stream/74800
+#EXTINF:-1 tvg-id="118194" tvg-name="MTv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" tvg-chno="7579" group-title="Entertainment",MTv HD
+https://xteam-itpv.vercel.app/stream/118194
+#EXTINF:-1 tvg-id="97508" tvg-name="ANIMAL PLANET 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3604" group-title="4K Ultra HD",ANIMAL PLANET 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97508
+#EXTINF:-1 tvg-id="122081" tvg-name="Nick 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8553" group-title="4K Ultra HD",Nick 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122081
+#EXTINF:-1 tvg-id="122093" tvg-name="Zee Bangla 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8565" group-title="4K Ultra HD",Zee Bangla 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122093
 #EXTINF:-1 tvg-id="94256" tvg-name="GEMINI MUSIC FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1723" group-title="Regional",GEMINI MUSIC FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94256.ts
-#EXTINF:-1 tvg-id="94199" tvg-name="ZEE MARATHI FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1686" group-title="Marathi",ZEE MARATHI FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94199.ts
-#EXTINF:-1 tvg-id="97490" tvg-name="Star Movies 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3593" group-title="4K Ultra HD",Star Movies 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97490.ts
-#EXTINF:-1 tvg-id="97478" tvg-name="Star Plus 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3581" group-title="4K Ultra HD",Star Plus 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97478.ts
-#EXTINF:-1 tvg-id="97504" tvg-name="National GEO 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3600" group-title="4K Ultra HD",National GEO 4K Ultra HD
-http://mega4k.one:8080/live/vicky123/123456/97504.ts
+https://xteam-itpv.vercel.app/stream/94256
+#EXTINF:-1 tvg-id="94265" tvg-name="Npl-Loc: KANTIPUR_HD_CINEPLEX" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1732" group-title="Regional",Npl-Loc: KANTIPUR_HD_CINEPLEX
+https://xteam-itpv.vercel.app/stream/94265
+#EXTINF:-1 tvg-id="94092" tvg-name="Colors Tamil FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1580" group-title="Tamil",Colors Tamil FHD 1080
+https://xteam-itpv.vercel.app/stream/94092
+#EXTINF:-1 tvg-id="97476" tvg-name="ZEE TV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3579" group-title="4K Ultra HD",ZEE TV 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97476
 #EXTINF:-1 tvg-id="94223" tvg-name="Zee Telegu FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1690" group-title="Telugu",Zee Telegu FHD 1080
-http://mega4k.one:8080/live/vicky123/123456/94223.ts
+https://xteam-itpv.vercel.app/stream/94223
+#EXTINF:-1 tvg-id="74812" tvg-name="IN | Star Movies Select HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" tvg-chno="1398" group-title="English Movies",IN | Star Movies Select HD
+https://xteam-itpv.vercel.app/stream/74812
+#EXTINF:-1 tvg-id="74468" tvg-name="IN | Eng: Colors Infinity FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1367" group-title="English Movies",IN | Eng: Colors Infinity FHD
+https://xteam-itpv.vercel.app/stream/74468
+#EXTINF:-1 tvg-id="94081" tvg-name="IND-Tamil : KTV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1569" group-title="Tamil",IND-Tamil : KTV HD
+https://xteam-itpv.vercel.app/stream/94081
+#EXTINF:-1 tvg-id="74804" tvg-name="IN | Romdy Now HD @" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" tvg-chno="1392" group-title="English Movies",IN | Romdy Now HD @
+https://xteam-itpv.vercel.app/stream/74804
+#EXTINF:-1 tvg-id="122111" tvg-name="SUN TV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8583" group-title="4K Ultra HD",SUN TV 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122111
+#EXTINF:-1 tvg-id="74790" tvg-name="IN | &Tv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" tvg-chno="1380" group-title="Entertainment",IN | &Tv HD
+https://xteam-itpv.vercel.app/stream/74790
+#EXTINF:-1 tvg-id="97504" tvg-name="National GEO 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3600" group-title="4K Ultra HD",National GEO 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97504
+#EXTINF:-1 tvg-id="74424" tvg-name="IN: Discovery World HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png" tvg-chno="1363" group-title="Documentary",IN: Discovery World HD
+https://xteam-itpv.vercel.app/stream/74424
+#EXTINF:-1 tvg-id="100468" tvg-name="Discovery HD Kannada" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QxOjTQh.png" tvg-chno="4289" group-title="Discovery Plus",Discovery HD Kannada
+https://xteam-itpv.vercel.app/stream/100468
+#EXTINF:-1 tvg-id="74772" tvg-name="IN | Zee TV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" tvg-chno="1374" group-title="Entertainment",IN | Zee TV HD
+https://xteam-itpv.vercel.app/stream/74772
+#EXTINF:-1 tvg-id="74797" tvg-name="IN | Star World HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/b39ca2ecbafa7ca4db90afdeb61e8515.png" tvg-chno="1386" group-title="Movies",IN | Star World HD
+https://xteam-itpv.vercel.app/stream/74797
+#EXTINF:-1 tvg-id="122086" tvg-name="Star Sports Select 2 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8558" group-title="4K Ultra HD",Star Sports Select 2 4K Ultra HD.
+https://xteam-itpv.vercel.app/stream/122086
+#EXTINF:-1 tvg-id="94262" tvg-name="Star Maa FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1729" group-title="Regional",Star Maa FHD 1080
+https://xteam-itpv.vercel.app/stream/94262
+#EXTINF:-1 tvg-id="131274" tvg-name="Prime Asia HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://157.15.202.13:5001/jtvimage/Prime_Asia_HD.png" tvg-chno="9419" group-title="Punjabi",Prime Asia HD
+https://xteam-itpv.vercel.app/stream/131274
+#EXTINF:-1 tvg-id="97506" tvg-name="TLC 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3602" group-title="4K Ultra HD",TLC 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97506
+#EXTINF:-1 tvg-id="94259" tvg-name="Star Maa Mov FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1726" group-title="Regional",Star Maa Mov FHD 1080
+https://xteam-itpv.vercel.app/stream/94259
+#EXTINF:-1 tvg-id="97488" tvg-name="& flix 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3591" group-title="4K Ultra HD",& flix 4K Ultra HD 
+https://xteam-itpv.vercel.app/stream/97488
+#EXTINF:-1 tvg-id="94263" tvg-name="ETV FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1730" group-title="Regional",ETV FHD 1080
+https://xteam-itpv.vercel.app/stream/94263
+#EXTINF:-1 tvg-id="97326" tvg-name="IND-Kannada: Udaya HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="3557" group-title="Kannada",IND-Kannada: Udaya HD
+https://xteam-itpv.vercel.app/stream/97326
+#EXTINF:-1 tvg-id="74423" tvg-name="IN | : Discovery Turbo HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png" tvg-chno="1362" group-title="Documentary",IN | : Discovery Turbo HD
+https://xteam-itpv.vercel.app/stream/74423
+#EXTINF:-1 tvg-id="100459" tvg-name="Discovery HD Tamil" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/wJHjFj6.png" tvg-chno="4280" group-title="Discovery Plus",Discovery HD Tamil
+https://xteam-itpv.vercel.app/stream/100459
+#EXTINF:-1 tvg-id="85219" tvg-name="IN | COLORS CINEPLEX HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" tvg-chno="1417" group-title="Movies",IN | COLORS CINEPLEX HD
+https://xteam-itpv.vercel.app/stream/85219
+#EXTINF:-1 tvg-id="97491" tvg-name="Zee Cafe 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3594" group-title="4K Ultra HD",Zee Cafe 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97491
+#EXTINF:-1 tvg-id="97503" tvg-name="NAT Geo Wild 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3599" group-title="4K Ultra HD",NAT Geo Wild 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97503
+#EXTINF:-1 tvg-id="85207" tvg-name="IN | & PICTURE HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" tvg-chno="1406" group-title="Movies",IN | & PICTURE HD
+https://xteam-itpv.vercel.app/stream/85207
+#EXTINF:-1 tvg-id="74784" tvg-name="IN | Star Bharat HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" tvg-chno="1378" group-title="Entertainment",IN | Star Bharat HD
+https://xteam-itpv.vercel.app/stream/74784
+#EXTINF:-1 tvg-id="94091" tvg-name="IND-Tamil : Sun Music HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1579" group-title="Tamil",IND-Tamil : Sun Music HD
+https://xteam-itpv.vercel.app/stream/94091
+#EXTINF:-1 tvg-id="122092" tvg-name="Star Jalsha 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8564" group-title="4K Ultra HD",Star Jalsha 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122092
+#EXTINF:-1 tvg-id="97481" tvg-name="Sony Sab 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3584" group-title="4K Ultra HD",Sony Sab 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97481
+#EXTINF:-1 tvg-id="74805" tvg-name="IN: MNX HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/MNPlus.in.png" tvg-chno="1393" group-title="English Movies",IN: MNX HD*
+https://xteam-itpv.vercel.app/stream/74805
+#EXTINF:-1 tvg-id="94199" tvg-name="ZEE MARATHI FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1686" group-title="Marathi",ZEE MARATHI FHD 1080
+https://xteam-itpv.vercel.app/stream/94199
+#EXTINF:-1 tvg-id="74813" tvg-name="IN | Star World Premier HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" tvg-chno="1399" group-title="English Movies",IN | Star World Premier HD*
+https://xteam-itpv.vercel.app/stream/74813
+#EXTINF:-1 tvg-id="97500" tvg-name="Star Movies Select 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3596" group-title="4K Ultra HD",Star Movies Select 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97500
+#EXTINF:-1 tvg-id="97502" tvg-name="HISTORY TV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3598" group-title="4K Ultra HD",HISTORY TV 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97502
+#EXTINF:-1 tvg-id="94253" tvg-name="SUN TV FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1720" group-title="Regional",SUN TV FHD 1080
+https://xteam-itpv.vercel.app/stream/94253
+#EXTINF:-1 tvg-id="122087" tvg-name="Sony Ten 1 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8559" group-title="4K Ultra HD",Sony Ten 1 4K Ultra HD.
+https://xteam-itpv.vercel.app/stream/122087
+#EXTINF:-1 tvg-id="94082" tvg-name="IND-Tamil : Star Vijay HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1570" group-title="Tamil",IND-Tamil : Star Vijay HD
+https://xteam-itpv.vercel.app/stream/94082
+#EXTINF:-1 tvg-id="122097" tvg-name="Sun Music 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8569" group-title="4K Ultra HD",Sun Music 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122097
+#EXTINF:-1 tvg-id="97505" tvg-name="Sony BBC Ear 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3601" group-title="4K Ultra HD",Sony BBC Ear 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97505
+#EXTINF:-1 tvg-id="122091" tvg-name="Jalsha_Movies 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8563" group-title="4K Ultra HD",Jalsha_Movies 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122091
+#EXTINF:-1 tvg-id="74811" tvg-name="IN | AXN HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/kr/AXN.kr.png" tvg-chno="1397" group-title="English Movies",IN | AXN HD
+https://xteam-itpv.vercel.app/stream/74811
+#EXTINF:-1 tvg-id="122112" tvg-name="Love Nature 4K" tvg-country="India" tvg-language="Hindi" tvg-logo="https://mhdtvmax.net/wp-content/uploads/2021/01/images-1-17.png" tvg-chno="8584" group-title="Documentary",Love Nature 4K
+https://xteam-itpv.vercel.app/stream/122112
+#EXTINF:-1 tvg-id="97478" tvg-name="Star Plus 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3581" group-title="4K Ultra HD",Star Plus 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97478
+#EXTINF:-1 tvg-id="122085" tvg-name="Star Sports Select 1 4K Ultra HD." tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8557" group-title="4K Ultra HD",Star Sports Select 1 4K Ultra HD.
+https://xteam-itpv.vercel.app/stream/122085
+#EXTINF:-1 tvg-id="122107" tvg-name="Star Jalsha Movies 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8579" group-title="4K Ultra HD",Star Jalsha Movies 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122107
+#EXTINF:-1 tvg-id="94269" tvg-name="Npl-loc: Nepal TV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1736" group-title="Regional",Npl-loc: Nepal TV HD
+https://xteam-itpv.vercel.app/stream/94269
+#EXTINF:-1 tvg-id="122103" tvg-name="Zee Tamil 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8575" group-title="4K Ultra HD",Zee Tamil 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122103
+#EXTINF:-1 tvg-id="100479" tvg-name="TLC HD Hindi" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/zXNZqYa.png" tvg-chno="4300" group-title="Discovery Plus",TLC HD Hindi
+https://xteam-itpv.vercel.app/stream/100479
+#EXTINF:-1 tvg-id="74810" tvg-name="IN | Zee Cafe HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-chno="1396" group-title="English Movies",IN | Zee Cafe HD*
+https://xteam-itpv.vercel.app/stream/74810
+#EXTINF:-1 tvg-id="89949" tvg-name="IND: BOLLYWOOD HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1488" group-title="Movies",IND: BOLLYWOOD HD
+https://xteam-itpv.vercel.app/stream/89949
+#EXTINF:-1 tvg-id="97477" tvg-name="Sony SET 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3580" group-title="4K Ultra HD",Sony SET 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97477
+#EXTINF:-1 tvg-id="74422" tvg-name="IN | : Discovery Science HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" tvg-chno="1361" group-title="Documentary",IN | : Discovery Science HD
+https://xteam-itpv.vercel.app/stream/74422
+#EXTINF:-1 tvg-id="94225" tvg-name="IND-Telugu: Etv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1692" group-title="Telugu",IND-Telugu: Etv HD
+https://xteam-itpv.vercel.app/stream/94225
+#EXTINF:-1 tvg-id="97490" tvg-name="Star Movies 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3593" group-title="4K Ultra HD",Star Movies 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97490
+#EXTINF:-1 tvg-id="94085" tvg-name="IND-Tamil : Sun tv HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1573" group-title="Tamil",IND-Tamil : Sun tv HD
+https://xteam-itpv.vercel.app/stream/94085
+#EXTINF:-1 tvg-id="85216" tvg-name="IN | SONY MAX HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" tvg-chno="1414" group-title="Movies",IN | SONY MAX HD
+https://xteam-itpv.vercel.app/stream/85216
+#EXTINF:-1 tvg-id="89913" tvg-name="IND: MINIPLEX HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1482" group-title="Movies",IND: MINIPLEX HD
+https://xteam-itpv.vercel.app/stream/89913
+#EXTINF:-1 tvg-id="97322" tvg-name="IND-Kannada: Colors Kannada HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="3553" group-title="Kannada",IND-Kannada: Colors Kannada HD
+https://xteam-itpv.vercel.app/stream/97322
+#EXTINF:-1 tvg-id="100467" tvg-name="Discovery HD Telugu" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ACHnTiu.png" tvg-chno="4288" group-title="Discovery Plus",Discovery HD Telugu
+https://xteam-itpv.vercel.app/stream/100467
+#EXTINF:-1 tvg-id="122095" tvg-name="Colors Tamil 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8567" group-title="4K Ultra HD",Colors Tamil 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122095
+#EXTINF:-1 tvg-id="122110" tvg-name="KTV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8582" group-title="4K Ultra HD",KTV 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122110
+#EXTINF:-1 tvg-id="122099" tvg-name="ZEE MARATHI 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8571" group-title="4K Ultra HD",ZEE MARATHI 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122099
+#EXTINF:-1 tvg-id="100469" tvg-name="Discovery HD Bangla" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pwFEzlz.png" tvg-chno="4290" group-title="Discovery Plus",Discovery HD Bangla
+https://xteam-itpv.vercel.app/stream/100469
+#EXTINF:-1 tvg-id="94093" tvg-name="Zee Tamil FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1581" group-title="Tamil",Zee Tamil FHD 1080
+https://xteam-itpv.vercel.app/stream/94093
+#EXTINF:-1 tvg-id="122100" tvg-name="UDAYA 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8572" group-title="4K Ultra HD",UDAYA 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122100
+#EXTINF:-1 tvg-id="131236" tvg-name="Prime Asia TV HD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://157.15.202.13:5001/jtvimage/Prime_Asia_Tv.png" tvg-chno="9381" group-title="Punjabi",Prime Asia TV HD
+https://xteam-itpv.vercel.app/stream/131236
+#EXTINF:-1 tvg-id="74799" tvg-name="IN | Sony Pix HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-chno="1388" group-title="English Movies",IN | Sony Pix HD
+https://xteam-itpv.vercel.app/stream/74799
+#EXTINF:-1 tvg-id="85208" tvg-name="IN | STAR GOLD HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" tvg-chno="1407" group-title="Movies",IN | STAR GOLD HD
+https://xteam-itpv.vercel.app/stream/85208
+#EXTINF:-1 tvg-id="94194" tvg-name="IND-MARATHI: Star Pravah HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1681" group-title="Marathi",IND-MARATHI: Star Pravah HD
+https://xteam-itpv.vercel.app/stream/94194
+#EXTINF:-1 tvg-id="94257" tvg-name="SURYA FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1724" group-title="Regional",SURYA FHD 1080
+https://xteam-itpv.vercel.app/stream/94257
+#EXTINF:-1 tvg-id="94261" tvg-name="ZEE TALKIE FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1728" group-title="Regional",ZEE TALKIE FHD 1080
+https://xteam-itpv.vercel.app/stream/94261
+#EXTINF:-1 tvg-id="122082" tvg-name="Disney 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8554" group-title="4K Ultra HD",Disney 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122082
+#EXTINF:-1 tvg-id="94314" tvg-name="IND-regional: Mazhavil_HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1781" group-title="Regional",IND-regional: Mazhavil_HD
+https://xteam-itpv.vercel.app/stream/94314
+#EXTINF:-1 tvg-id="94191" tvg-name="IND-MARATHI: Colors Marathi HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1678" group-title="Marathi",IND-MARATHI: Colors Marathi HD
+https://xteam-itpv.vercel.app/stream/94191
+#EXTINF:-1 tvg-id="92409" tvg-name="Nick HD+" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" tvg-chno="1529" group-title="Kids",Nick HD+
+https://xteam-itpv.vercel.app/stream/92409
+#EXTINF:-1 tvg-id="94165" tvg-name="Guj: Sandesh News HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1652" group-title="Gujarati",Guj: Sandesh News HD
+https://xteam-itpv.vercel.app/stream/94165
+#EXTINF:-1 tvg-id="122084" tvg-name="Star Sports 2 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8556" group-title="4K Ultra HD",Star Sports 2 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122084
+#EXTINF:-1 tvg-id="122105" tvg-name="Zee Telegu 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8577" group-title="4K Ultra HD",Zee Telegu 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122105
+#EXTINF:-1 tvg-id="94255" tvg-name="GEMINI TV FHD 1080" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1722" group-title="Regional",GEMINI TV FHD 1080
+https://xteam-itpv.vercel.app/stream/94255
+#EXTINF:-1 tvg-id="74802" tvg-name="IN | & Flix HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" tvg-chno="1391" group-title="English Movies",IN | & Flix HD
+https://xteam-itpv.vercel.app/stream/74802
+#EXTINF:-1 tvg-id="94186" tvg-name="IND-Malayalam: Surya HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1673" group-title="Malayalam",IND-Malayalam: Surya HD
+https://xteam-itpv.vercel.app/stream/94186
+#EXTINF:-1 tvg-id="94172" tvg-name="ind: Colors Kannnada FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1659" group-title="Kannada",ind: Colors Kannnada FHD
+https://xteam-itpv.vercel.app/stream/94172
+#EXTINF:-1 tvg-id="97485" tvg-name="Star Gold Select 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3588" group-title="4K Ultra HD",Star Gold Select 4K Ultra HD 
+https://xteam-itpv.vercel.app/stream/97485
+#EXTINF:-1 tvg-id="97479" tvg-name="Colors 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3582" group-title="4K Ultra HD",Colors 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97479
+#EXTINF:-1 tvg-id="97486" tvg-name="Zee Cinema 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3589" group-title="4K Ultra HD",Zee Cinema 4K Ultra HD 
+https://xteam-itpv.vercel.app/stream/97486
+#EXTINF:-1 tvg-id="94087" tvg-name="IND-Tamil : Zee Tamil HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1575" group-title="Tamil",IND-Tamil : Zee Tamil HD
+https://xteam-itpv.vercel.app/stream/94087
+#EXTINF:-1 tvg-id="122083" tvg-name="Star Sports 1 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8555" group-title="4K Ultra HD",Star Sports 1 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122083
+#EXTINF:-1 tvg-id="74806" tvg-name="IN | Movies Now HD*" tvg-country="India" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" tvg-chno="1394" group-title="English Movies",IN | Movies Now HD*
+https://xteam-itpv.vercel.app/stream/74806
+#EXTINF:-1 tvg-id="97487" tvg-name="Sony Max 4K Ultra HD " tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3590" group-title="4K Ultra HD",Sony Max 4K Ultra HD 
+https://xteam-itpv.vercel.app/stream/97487
+#EXTINF:-1 tvg-id="97480" tvg-name="Star Bharat 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3583" group-title="4K Ultra HD",Star Bharat 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97480
+#EXTINF:-1 tvg-id="97489" tvg-name="Sony Pix 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3592" group-title="4K Ultra HD",Sony Pix 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97489
+#EXTINF:-1 tvg-id="100458" tvg-name="TLC HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vccxxOt.png" tvg-chno="4279" group-title="Discovery Plus",TLC HD
+https://xteam-itpv.vercel.app/stream/100458
+#EXTINF:-1 tvg-id="97507" tvg-name="DISCOVERY 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="3603" group-title="4K Ultra HD",DISCOVERY 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/97507
+#EXTINF:-1 tvg-id="122094" tvg-name="Colors Bangla 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8566" group-title="4K Ultra HD",Colors Bangla 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122094
+#EXTINF:-1 tvg-id="74798" tvg-name="IN | Star Movies FHD" tvg-country="India" tvg-language="Hindi" tvg-logo="http://bostv.one:8080/images/9bab347e290a3643559b32674242de33.png" tvg-chno="1387" group-title="English Movies",IN | Star Movies FHD
+https://xteam-itpv.vercel.app/stream/74798
+#EXTINF:-1 tvg-id="100460" tvg-name="Discovery HD Malayalam" tvg-country="India" tvg-language="Hindi" tvg-logo="https://w5z4j5q3.rocketcdn.me/wp-content/uploads/2023/01/Fw8yvvx.png" tvg-chno="4281" group-title="Discovery Plus",Discovery HD Malayalam
+https://xteam-itpv.vercel.app/stream/100460
+#EXTINF:-1 tvg-id="122106" tvg-name="ETV 4K Ultra HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://logodix.com/logo/1578353.png" tvg-chno="8578" group-title="4K Ultra HD",ETV 4K Ultra HD
+https://xteam-itpv.vercel.app/stream/122106
+#EXTINF:-1 tvg-id="74429" tvg-name="In: WB HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1364" group-title="English Movies",In: WB HD
+https://xteam-itpv.vercel.app/stream/74429
+#EXTINF:-1 tvg-id="94233" tvg-name="IND-Telugu: Maa HD" tvg-country="India" tvg-language="Hindi" tvg-logo="" tvg-chno="1700" group-title="Telugu",IND-Telugu: Maa HD
+https://xteam-itpv.vercel.app/stream/94233
+#EXTINF:-1 tvg-id="89915" tvg-name="IND: &EXPLOR HD" tvg-country="India" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" tvg-chno="1484" group-title="Movies",IND: &EXPLOR HD
+https://xteam-itpv.vercel.app/stream/89915

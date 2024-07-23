@@ -8,6 +8,7 @@ class Channel:
         self.server = config.provider['server']
         self.username = config.provider['username']
         self.password = config.provider['password']
+        self.xtream_itpv_url = "https://xteam-itpv.vercel.app"
 
         # Ensure the data directory exists
         os.makedirs('data', exist_ok=True)
@@ -72,7 +73,7 @@ class Channel:
             channel_category = channel.get('category_name', '')
             channel_country = "India"
             channel_language = "Hindi"
-            url = f"http://mega4k.one:8080/live/{self.username}/{self.password}/{stream_id}.ts"
+            url = f"{self.xtream_itpv_url}/stream/{stream_id}"
 
             playlist += (
                 f"#EXTINF:-1 tvg-id=\"{stream_id}\" tvg-name=\"{channel_name}\" "
